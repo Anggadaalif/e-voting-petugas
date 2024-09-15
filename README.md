@@ -26,3 +26,4 @@ node index.js
 
 and go to http://localhost:3000 to interact with the decentralized voting application.
 
+# e-voting-petugas
